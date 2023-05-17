@@ -1,0 +1,139 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=2131581614
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Breakpoints2]
+Bp0=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\..\Board\src\VCAN_OV7725_Eagle.c}.44.5" 0 0 1 "" 0 "" 0
+Count=1
+[SfrWindow]
+Show=1 1
+Sort=4 0
+[struct_types]
+Fmt0=DS3231-Day	3	0
+Fmt1=DS3231-Hour	3	0
+Fmt2=DS3231-Minute	3	0
+Fmt3=DS3231-Month	3	0
+Fmt4=DS3231-Second	3	0
+Fmt5=DS3231-Year	3	0
+[array_types]
+Fmt0=uint8[160]	3	0
+Fmt1=uint8_t[100]	3	0
+Fmt2=uint8_t[13]	5	0
+Fmt3=uint8_t[18]	3	0
+Fmt4=uint8_t[6]	3	0
+[watch_formats]
+Fmt0={W}0:A	3	0
+Fmt1={W}0:B	3	0
+Fmt2={W}0:Bar_Location	3	0
+Fmt3={W}0:C	3	0
+Fmt4={W}0:Cross_End	3	0
+Fmt5={W}0:Cross_Start	3	0
+Fmt6={W}0:D	3	0
+Fmt7={W}0:Day	3	0
+Fmt8={W}0:Door_Status	3	0
+Fmt9={W}0:E	3	0
+Fmt10={W}0:F	3	0
+Fmt11={W}0:FRAME_FLAG	3	0
+Fmt12={W}0:FTM1_STATUS	1	0
+Fmt13={W}0:Flag1	3	0
+Fmt14={W}0:Flag2	3	0
+Fmt15={W}0:Flag3	3	0
+Fmt16={W}0:Half_SD[i]	3	0
+Fmt17={W}0:Hour	3	0
+Fmt18={W}0:HuiGui	3	0
+Fmt19={W}0:LS_GD_Flag	3	0
+Fmt20={W}0:LX_GD_Flag	3	0
+Fmt21={W}0:L_SJ	3	0
+Fmt22={W}0:L_XJ	3	0
+Fmt23={W}0:L_ZJ_Flag	3	0
+Fmt24={W}0:Minute	3	0
+Fmt25={W}0:Month	3	0
+Fmt26={W}0:RS_GD_Flag	3	0
+Fmt27={W}0:RX_GD_Flag	3	0
+Fmt28={W}0:R_SJ	3	0
+Fmt29={W}0:R_XJ	3	0
+Fmt30={W}0:R_ZJ_Flag	3	0
+Fmt31={W}0:S1	3	0
+Fmt32={W}0:S2	3	0
+Fmt33={W}0:S3	3	0
+Fmt34={W}0:S4	3	0
+Fmt35={W}0:START_FLAG	3	0
+Fmt36={W}0:Se1	3	0
+Fmt37={W}0:Se2	3	0
+Fmt38={W}0:Se3	3	0
+Fmt39={W}0:Second	3	0
+Fmt40={W}0:Slope_Flag	3	0
+Fmt41={W}0:SpeedCount	3	0
+Fmt42={W}0:Speed_Select	3	0
+Fmt43={W}0:Start	3	0
+Fmt44={W}0:Stop	3	0
+Fmt45={W}0:ValueRow	3	0
+Fmt46={W}0:Week	3	0
+Fmt47={W}0:Year	3	0
+Fmt48={W}0:Zhijiao_Flag	3	0
+Fmt49={W}0:count	3	0
+Fmt50={W}0:count1	3	0
+Fmt51={W}0:count2	3	0
+Fmt52={W}0:count3	3	0
+Fmt53={W}0:day	3	0
+Fmt54={W}0:flag	3	0
+Fmt55={W}0:is	3	0
+Fmt56={W}0:l_lost	3	0
+Fmt57={W}0:m1	3	0
+Fmt58={W}0:m2	3	0
+Fmt59={W}0:month	3	0
+Fmt60={W}0:r_lost	3	0
+Fmt61={W}0:second	3	0
+Fmt62={W}0:time	3	0
+Fmt63={W}0:year	3	0
+Fmt64={W}1:Dtemp2	3	0
+Fmt65={W}1:FLAG	3	0
+Fmt66={W}1:Htemp2	3	0
+Fmt67={W}1:Mtemp2	3	0
+Fmt68={W}1:Stemp2	3	0
+Fmt69={W}1:T	1	0
+Fmt70={W}1:Ttemp1	1	0
+Fmt71={W}1:Ttemp2	1	0
+Fmt72={W}1:Ttemp3	1	0
+Fmt73={W}1:Ttemp4	1	0
+Fmt74={W}1:Ytemp2	3	0
+Fmt75={W}1:day	3	0
+Fmt76={W}1:hour	3	0
+Fmt77={W}1:min	3	0
+Fmt78={W}1:mon	3	0
+Fmt79={W}1:retc	3	0
+Fmt80={W}1:sec	3	0
+Fmt81={W}1:t	1	0
+Fmt82={W}1:temp	3	0
+Fmt83={W}1:year	3	0
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Users\卢先生\Desktop\Freescale_Car\Software\Chip\src\IAR\startup_MK60DZ10.s" ""
+A1=_ "F:\飞思卡尔备份\Software\App\main.c" ""
+Count=2
+SuppressDialog=1
