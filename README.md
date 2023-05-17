@@ -15,6 +15,6 @@ Usage:
 
 Step 1: Download the audio code from base station.
 
-Step 2: Volume up and play the audio using phone speaker close the microphone sensor.
+Step 2: Insert audio line, volume up and play the audio from your phone.
 
 Step 3: Wait to unlock.
