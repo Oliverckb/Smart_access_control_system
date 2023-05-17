@@ -1,2 +1,2 @@
-# Smart_access_control_system
-Access control system using 2FSK modulation and demodulation
+# Smart Access Control System
+The access control system unlock the door based on 2FSK modulation signal
