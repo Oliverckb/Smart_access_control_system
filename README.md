@@ -6,8 +6,8 @@ The password is generated based on the time from DS3231, and valid for one day.
 
 Usage: 
 
-1. Download the audio code from base station.
+Step 1. Download the audio code from base station.
 
-2. Volume up and play the audio using phone speaker close the microphone sensor.
+Step 2. Volume up and play the audio using phone speaker close the microphone sensor.
 
-3. Wait to unlock.
+Step 3. Wait to unlock.
